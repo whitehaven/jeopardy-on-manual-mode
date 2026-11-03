@@ -1,7 +1,11 @@
 // Configuration for grid and layout
 #let cols = 2
 #let rows = 3
-#let page-margin = 0.5in
+#let page-margin = 0in
+
+#let qa_side_text_size = 12pt
+#let category_text_size = 30pt
+#let money_text_size = 46pt
 
 #set page(
   paper: "us-letter",
@@ -12,7 +16,6 @@
 #let card-width = (100% / cols)
 #let card-height = (100% / rows)
 
-// Sample inline CSV data (replace csv.decode(...) with csv("questions.csv") for external files)
 #let csv-data = csv("questions.csv")
 
 // Extract header and content rows
@@ -47,11 +50,10 @@
       let (category, value, question, answer) = row
       card-box(
         align(center + horizon)[
-          #text(size: 14pt, weight: "bold", font: "Liberation Sans", upper(category))
-          #v(10pt)
-          #text(size: 28pt, weight: "extrabold", fill: rgb("#d4af37"), font: "Liberation Sans", "$" + value)
+          #text(size: category_text_size, weight: "bold", upper(category))
+          #divider()
+          #text(size: money_text_size, weight: "extrabold", "$" + value)
         ],
-        fill-color: rgb("#060ce9").lighten(90%),
       )
     })
   )
@@ -59,19 +61,17 @@
   // --- BACK SIDE PAGE (Horizontally flipped grid order for double-sided printing) ---
   pagebreak(weak: true)
 
-  // Reverse columns per row so back sides align with front sides when flipped along long edge
-  let back-rows = ()
   let row-chunks = chunk.chunks(cols)
+  let back-chunk = ()
   for r in row-chunks {
-    // Reverse the cards in the row for back-side alignment
     let reversed-row = r.rev()
-    // Pad row if last page is incomplete
     while reversed-row.len() < cols {
-      reversed-row.insert(0, ("-", "-", "", ""))
+      reversed-row.push(("-", "-", "", ""))
     }
-    back-rows.push(reversed-row)
+    for card in reversed-row {
+      back-chunk.push(card)
+    }
   }
-  let back-chunk = back-rows.flatten()
 
   grid(
     columns: (1fr,) * cols,
@@ -84,11 +84,9 @@
       } else {
         card-box(
           align(center + horizon)[
-            #text(size: 11pt, weight: "medium", question)
-            #v(8pt)
+            #text(size: qa_side_text_size, weight: "medium", question)
             #line(length: 80%, stroke: 0.5pt + luma(120))
-            #v(8pt)
-            #text(size: 11pt, weight: "bold", style: "italic", fill: rgb("#1a5276"), answer)
+            #text(size: qa_side_text_size, weight: "bold", style: "italic", answer)
           ],
         )
       }
