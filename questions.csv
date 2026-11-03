@@ -1,6 +1,15 @@
-category,value,question,answer
-ICU,100,What kind of poison causes osmolar gap that converts to HAGMA + snowy blindness?,Methanol
-ICU,200,Question 2,Answer 2
-ICU,300,Question 3,Answer 3
-ICU,400,Question 4,Answer 4
-ICU,500,Question 5,Answer 5
+category,round,value,question,answer
+Internist's Worst Fear,Single Jeopardy,1000,"Red, blistering rash strongly associated with glucagonoma",Necrolytic migratory erythema
+Internist's Worst Fear,Single Jeopardy,800,"Rash associated with laptops, space heaters, and heating pads","Erythema ab igne (accept EAI, hot water bottle rash)"
+Internist's Worst Fear,Single Jeopardy,600,Most common metal causing a type IV hypersensitivity reaction,Nickel
+Internist's Worst Fear,Single Jeopardy,400,Derm Q,A
+Internist's Worst Fear,Single Jeopardy,200,Derm Q,A
+Playing Cards,Single Jeopardy,600,First FDA-approved oral direct thrombin inhibitor,Dabigatran (accept Pradaxa)
+Playing Cards,Single Jeopardy,200,Acute MI mimicker that occurs predominantly in older women who may have normal coronary arteries but an abnormal echocardiogram,"Takotsubo cardiomyopathy (accept Takotsubo syndrome, TTS, stress cardiomyopathy, broken heart syndrome)"
+Playing Cards,Single Jeopardy,400,"Eponym for syndrome of chest pain, diffuse ST-segment elevation, PR depression and pericardial friction rub 2 weeks after MI",Dressler syndrome
+Playing Cards,Single Jeopardy,800,Heart failure therapy involving biventricular pacing to improve cardiac output,Cardiac resynchronization
+Playing Cards,Single Jeopardy,1000,Two cardiac valves in which regurgitation can cause a pulsatile liver,Tricuspid and aortic
+Poison Control,Single Jeopardy,400,Resin found in poison ivy and mango peel that causes dermatitis,Urushiol
+Poison Control,Single Jeopardy,200,Antidote for cyanide poisoning,Hydroxycobalamin
+Poison Control,Single Jeopardy,1000,The only type of chemical burn with an antidote,Hydrofluouric acid burn (topical/infiltrated Ca Gluconate)
+Poison Control,Single Jeopardy,800,Ethanol is effective as an antidote for this intoxication,Methanol

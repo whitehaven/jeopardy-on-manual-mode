@@ -5,7 +5,7 @@
 
 #let qa_side_text_size = 12pt
 #let category_text_size = 30pt
-#let money_text_size = 46pt
+#let money_text_size = 50pt
 
 #set page(
   paper: "us-letter",
@@ -47,9 +47,11 @@
     rows: (1fr,) * rows,
     gutter: 0pt,
     ..chunk.map(row => {
-      let (category, value, question, answer) = row
+      let (category, round, value, question, answer) = row
       card-box(
         align(center + horizon)[
+          #text(round, qa_side_text_size)
+          #divider()
           #text(size: category_text_size, weight: "bold", upper(category))
           #divider()
           #text(size: money_text_size, weight: "extrabold", "$" + value)
@@ -78,7 +80,7 @@
     rows: (1fr,) * rows,
     gutter: 0pt,
     ..back-chunk.map(row => {
-      let (category, value, question, answer) = row
+      let (category, round, value, question, answer) = row
       if category == "-" {
         card-box([]) // Blank card padding
       } else {
