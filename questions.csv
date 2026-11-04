@@ -2,8 +2,8 @@ category,round,value,question,answer
 Internist's Worst Fear,Single Jeopardy,1000,"Red, blistering rash strongly associated with glucagonoma",Necrolytic migratory erythema
 Internist's Worst Fear,Single Jeopardy,800,"Rash associated with laptops, space heaters, and heating pads","Erythema ab igne (accept EAI, hot water bottle rash)"
 Internist's Worst Fear,Single Jeopardy,600,Most common metal causing a type IV hypersensitivity reaction,Nickel
-Internist's Worst Fear,Single Jeopardy,400,Derm Q,A
-Internist's Worst Fear,Single Jeopardy,200,Derm Q,A
+Internist's Worst Fear,Single Jeopardy,400,Organism most likely to cause this condition - IMAGE,Ecthyma gangrenosum
+Internist's Worst Fear,Single Jeopardy,200,Autoimmune blistering condition pictured here characterized by positive Nicholsky sign - IMAGE,Bullous pemphigoid
 Playing Cards,Single Jeopardy,600,First FDA-approved oral direct thrombin inhibitor,Dabigatran (accept Pradaxa)
 Playing Cards,Single Jeopardy,200,Acute MI mimicker that occurs predominantly in older women who may have normal coronary arteries but an abnormal echocardiogram,"Takotsubo cardiomyopathy (accept Takotsubo syndrome, TTS, stress cardiomyopathy, broken heart syndrome)"
 Playing Cards,Single Jeopardy,400,"Eponym for syndrome of chest pain, diffuse ST-segment elevation, PR depression and pericardial friction rub 2 weeks after MI",Dressler syndrome
@@ -14,7 +14,7 @@ Poison Control,Single Jeopardy,200,Antidote for cyanide poisoning,Hydroxycobalam
 Poison Control,Single Jeopardy,1000,The only type of chemical burn with an antidote,Hydrofluouric acid burn (topical/infiltrated Ca Gluconate)
 Poison Control,Single Jeopardy,800,Ethanol is effective as an antidote for this intoxication,Methanol
 Poison Control,Single Jeopardy,600,Toxic product of methanol ingestion resulting from sequential metabolism by alcohol and aldehyde dehydrogenase,Formic acid (accept formate)
-Sip of Liver,Single Jeopardy,1000,What serious adverse event becomes more likely with combination of ibrutinib and amiodarone?,Atrial fibrillation. 
+Sip of Liver,Single Jeopardy,1000,What serious adverse event becomes more likely with combination of ibrutinib and amiodarone?,Atrial fibrillation.
 Sip of Liver,Single Jeopardy,800,Fentanyl + this rate control agent is strongly associated with delirium due to CYP3A inhibition.,Diltiazem
 Sip of Liver,Single Jeopardy,600,A patient on methadone is started on ciprofloxacin. Which life-threatening effect becomes more likely?,"Respiratory depression, because ciprofloxacin inhibits CYP1A2 and CYP3A4 and raises methadone levels)"
 Sip of Liver,Single Jeopardy,400,Patients with duplicated CYP2D6 genes rapidly convert codeine into this active molecule.,Morphine
@@ -44,11 +44,11 @@ Seeing Things,Double Jeopardy,800,"This kind of hallucination involves seeing sm
 Seeing Things,Double Jeopardy,400,"Hypnogogic hallucinations occur at these times, and are considered normal unless paired with cataplexy.",Upon falling asleep.
 Seeing Things,Double Jeopardy,1600,Tactile hallucination characterised by sensation of insects crawling under the skin.,Fomication
 Seeing Things,Double Jeopardy,2000,What hallucination modality is most typical of schizophrenia?,Auditory (70-75% prevalence)
-Rebus,Double Jeopardy,400,Rebus 1,costochondritis
+Rebus,Double Jeopardy,1600,Rebus 1,costochondritis
 Rebus,Double Jeopardy,800,Rebus 2,graves disease
 Rebus,Double Jeopardy,1200,Rebus 3,takotsubo
-Rebus,Double Jeopardy,1600,Rebus 4,trichotillomania
-Rebus,Double Jeopardy,2000,Rebus 5,
+Rebus,Double Jeopardy,2000,Rebus 4,trichotillomania
+Rebus,Double Jeopardy,400,Rebus 5,paramedic
 Blood,Double Jeopardy,400,Term for eating of nonfood substances,Pica
 Blood,Double Jeopardy,800,Scoring system used to predict ADAMTS13 deficiency in suspected thrombotic thrombocytopenic purpura,PLASMIC score
 Blood,Double Jeopardy,1200,Complement-mediated red blood cell destruction diagnosed by absence of CD55 and CD59 on flow cytometry,Paroxysmal nocturnal hemoglobinuria
