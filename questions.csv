@@ -13,3 +13,49 @@ Poison Control,Single Jeopardy,400,Resin found in poison ivy and mango peel that
 Poison Control,Single Jeopardy,200,Antidote for cyanide poisoning,Hydroxycobalamin
 Poison Control,Single Jeopardy,1000,The only type of chemical burn with an antidote,Hydrofluouric acid burn (topical/infiltrated Ca Gluconate)
 Poison Control,Single Jeopardy,800,Ethanol is effective as an antidote for this intoxication,Methanol
+Poison Control,Single Jeopardy,600,Toxic product of methanol ingestion resulting from sequential metabolism by alcohol and aldehyde dehydrogenase,Formic acid (accept formate)
+Sip of Liver,Single Jeopardy,1000,What serious adverse event becomes more likely with combination of ibrutinib and amiodarone?,Atrial fibrillation. 
+Sip of Liver,Single Jeopardy,800,Fentanyl + this rate control agent is strongly associated with delirium due to CYP3A inhibition.,Diltiazem
+Sip of Liver,Single Jeopardy,600,A patient on methadone is started on ciprofloxacin. Which life-threatening effect becomes more likely?,"Respiratory depression, because ciprofloxacin inhibits CYP1A2 and CYP3A4 and raises methadone levels)"
+Sip of Liver,Single Jeopardy,400,Patients with duplicated CYP2D6 genes rapidly convert codeine into this active molecule.,Morphine
+Sip of Liver,Single Jeopardy,200,Patients receiving asthma treatment must be monitored for this side effect if using an HIV regimen including cobicistat.,Iatrogenic Cushings
+Old Blue Genes,Single Jeopardy,1000,Name for hypothesis that cancer is the result of accumulated mutations to cellular DNA,Two-hit hypothesis (accept multiple-hit hypothesis or Knudsen hypothesis)
+Old Blue Genes,Single Jeopardy,200,Gene editing technique utilizing the bacterial defense system against infecting viruses,"CRISPR (accept CRISPR-Cas9, Clustered Regularly Interspaced Short Palindromic Repeats)"
+Old Blue Genes,Single Jeopardy,800,Term for possessing 2 or more cell populations with different genotypes,Mosaicism
+Old Blue Genes,Single Jeopardy,600,Hematologic malignancy associated with translocation between chromosomes 15 and 17,Acute promyelocytic leukemia
+Old Blue Genes,Single Jeopardy,400,Prophylactic surgery indicated for patients with multiple endocrine neoplasia type 2 with RET proto-oncogene mutation,Thyroidectomy
+Dr. Lavy's Favys,Single Jeopardy,1000,Eponym for progressive spreading of jerking activity along a limb in focal motor status epilepticus,Jacksonian march
+Dr. Lavy's Favys,Single Jeopardy,200,Immune-mediated demyelinating disease characterized by positive aquaporin-4 antibodies,Neuromyelitis optica (accept Devic disease)
+Dr. Lavy's Favys,Single Jeopardy,800,Paraneoplastic limbic encephalitis associated with ovarian teratomas,Anti-NMDA receptor encephalitis
+Dr. Lavy's Favys,Single Jeopardy,600,Eponymous bilateral temporal lobe disorder characterized by inappropriate sexual behavior and mouthing of objects,Kluver-Bucy syndrome
+Dr. Lavy's Favys,Single Jeopardy,400,Non-epileptic neurological disorder characterized by uncontrollable episodes of crying or laughing that are incongruent with mood,Pseudobulbar affect (also accept emotional incontinence)
+Headaches,Double Jeopardy,2000,Preferred medication for treatment of hemicrania continua,"Indomethacin (accept Indocin; if 'NSAIDs' given, ask to be more specific)"
+Headaches,Double Jeopardy,400,Preferred initial drug therapy for idiopathic intracranial hypertension,Acetazolamide (accept carbonic anhydrase inhibitor)
+Headaches,Double Jeopardy,800,Recurrent throbbing headache typically occurring after the age of 50 that awakens the patient from sleep,Hypnic headache
+Headaches,Double Jeopardy,1600,Ultrasound measurement of this structure is predictive of high intracranial pressure,Optic nerve
+Headaches,Double Jeopardy,1200,What is the threshold days per month to precipitate medication overuse headache?,>= 15 days/month
+Zebras and Even Rarer,Double Jeopardy,800,The U.S. Orphan Drug Act was passed in 1983. What prevalence threshold defines a rare disease under it?,"<200,000 patients in the US"
+Zebras and Even Rarer,Double Jeopardy,1200,"Periorbital purpura appears after proctoscopy, when the patient strains or lies head-down. Which systemic disease does this suggest?",Systemic amyloidosis
+Zebras and Even Rarer,Double Jeopardy,2000,"Cerebellar ataxia, spasticity, mild cognitive decline and Achilles tendon xanthomas characterize this rare metabolic disease",Cerebrotendinous xanthomatosis
+Zebras and Even Rarer,Double Jeopardy,1600,Virus associated with multicentric Castleman disease,Human herpesvirus 8 (must indicate number)
+Zebras and Even Rarer,Double Jeopardy,400,Recommended initial test for patient with elevated liver enzymes and panlobular emphysema,alpha 1 antitrypsin level
+Seeing Things,Double Jeopardy,1200,Syndromic eponym for visual hallucinations occurring in patients with acquired visual loss,Charles Bonnet Syndrome (accept visual release hallucinations)
+Seeing Things,Double Jeopardy,800,"This kind of hallucination involves seeing small hallucinated creatures, often taking form of elves or fairies, that are around 6 inches tall.",Lilliputian hallucinations. (A/w psychedelics but especially Amanita muscaria intoxication)
+Seeing Things,Double Jeopardy,400,"Hypnogogic hallucinations occur at these times, and are considered normal unless paired with cataplexy.",Upon falling asleep.
+Seeing Things,Double Jeopardy,1600,Tactile hallucination characterised by sensation of insects crawling under the skin.,Fomication
+Seeing Things,Double Jeopardy,2000,What hallucination modality is most typical of schizophrenia?,Auditory (70-75% prevalence)
+Rebus,Double Jeopardy,400,Rebus 1,costochondritis
+Rebus,Double Jeopardy,800,Rebus 2,graves disease
+Rebus,Double Jeopardy,1200,Rebus 3,takotsubo
+Rebus,Double Jeopardy,1600,Rebus 4,trichotillomania
+Rebus,Double Jeopardy,2000,Rebus 5,
+Blood,Double Jeopardy,400,Term for eating of nonfood substances,Pica
+Blood,Double Jeopardy,800,Scoring system used to predict ADAMTS13 deficiency in suspected thrombotic thrombocytopenic purpura,PLASMIC score
+Blood,Double Jeopardy,1200,Complement-mediated red blood cell destruction diagnosed by absence of CD55 and CD59 on flow cytometry,Paroxysmal nocturnal hemoglobinuria
+Blood,Double Jeopardy,1600,Nuclear remnant in red blood cells of asplenic patients,Howell-Jolly body
+Blood,Double Jeopardy,2000,Autoantibodies directed toward complexes of herparin and this protein result in heparin-induced thrombocytopenia,Platelet factor 4 (do not accept only platelet factor)
+Calm Your Hormones,Double Jeopardy,400,Eponym for syndrome resulting from hemorrhagic adrenal gland failure associated with severe bacterial infection,Waterhouse-Friderichsen syndrome
+Calm Your Hormones,Double Jeopardy,800,Threshold 2-hour plasma glucose level to diagnose diabetes during an oral glucose tolerance test,"200 mg/dL (accept 200, 11.1 mmol/L)"
+Calm Your Hormones,Double Jeopardy,1200,Menstrual cycle phase in which progesterone levels peak,Luteal phase
+Calm Your Hormones,Double Jeopardy,1600,Season in which patients with myxedema coma are most likely to present,Winter
+Calm Your Hormones,Double Jeopardy,2000,"Common term for persistent hypocalcemia after parathyroidectomy for severe, prolonged hyperparathyroidism",Hungry bone syndrome
